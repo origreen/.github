@@ -2,6 +2,14 @@
 
 # Origreen - A green origin!
 
+## Try it!!!
+
+**URL TO THE PROFILATION**: https://origreen.vercel.app/
+
+**URL TO THE DETAILS OF A FOOD**: https://origreen.vercel.app/food/white_cabbage
+
+**You will notice that changing the parameters in the profilation will result in a different score in the details page!**
+
 ## How was it made
 
 - A backend with **Python** and **FastAPI**
