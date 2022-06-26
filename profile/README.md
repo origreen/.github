@@ -10,7 +10,7 @@
 
 **You will notice that changing the parameters in the profilation will result in a different score in the details page!**
 
-**If you want to use the api, follow [this link](https://origreen-apis.herokuapp.com/food/white_cabbage)**
+**If you want to use the api, follow [this link](https://origreen-apis.herokuapp.com/docs)**
 
 ## How was it made
 
