@@ -1,6 +1,10 @@
 # Origreen - A green origin!
 
+![Architecture](https://raw.githubusercontent.com/origreen/.github/main/profile/logo.png)
+
 This is the Github repo of the Origreen project
+
+![Architecture](https://raw.githubusercontent.com/origreen/.github/main/profile/architecthure.png)
 
 ## How was it made
 
