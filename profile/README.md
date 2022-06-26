@@ -1,10 +1,6 @@
-# Origreen - A green origin!
-
 ![Architecture](https://raw.githubusercontent.com/origreen/.github/main/profile/logo.png)
 
-This is the Github repo of the Origreen project
-
-![Architecture](https://raw.githubusercontent.com/origreen/.github/main/profile/architecthure.png)
+# Origreen - A green origin!
 
 ## How was it made
 
@@ -12,6 +8,7 @@ This is the Github repo of the Origreen project
 - A webapp with **Vue.js**
 - An app with **Unity**
 - A database with **MongoDB**
+
 
 ### The database model
 
@@ -35,3 +32,7 @@ The backend:
 
 - Scans the QRCodes and shows the score with AR
 - When the QRCode is clicked, it takes the user to the webapp to see more information
+
+## Architecture
+
+![Architecture](https://raw.githubusercontent.com/origreen/.github/main/profile/architecthure.png)
