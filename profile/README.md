@@ -46,3 +46,7 @@ The backend:
 ## Architecture
 
 ![Architecture](https://raw.githubusercontent.com/origreen/.github/main/profile/architecthure.png)
+
+## The result
+
+In the end, we had a nice presentation in the Hackathon, reaching the 3rd place!!!
